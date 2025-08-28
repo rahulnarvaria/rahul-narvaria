@@ -34,13 +34,14 @@
 ---
 
 ### 🔗 Featured Projects
-- 🌐 **[Ajubatech](https://ajubatech.com/)** — Technology-driven solutions for businesses.  
-- 🌐 **[Ajubax](https://ajubax.com.au/)** — Digital solutions tailored for Australia.  
-- 🌐 **[Kauri Flats](https://kauriflats.co.nz/)** — Real estate & property platform in New Zealand.  
-- 🌐 **[Listhouze](https://listhouze.com.au/)** — Property listing and management platform.  
-- 🌐 **[Ajuba Domain](https://ajubadomain.co.nz/)** — Domain services and digital identity solutions.  
-- 🌐 **[Ogzimo](https://ogzimo.com/)** — Innovative product-focused platform.  
-- 🌐 **[Kroomly](https://kroomly.com/)** — Creative digital platform for modern users.  
+
+- 🌐 **[Ajubatech](https://ajubatech.com/)** — Technology-driven consulting & product studio delivering enterprise-grade digital transformation and SaaS platforms.  
+- 🌐 **[Ajubax](https://ajubax.com.au/)** — SaaS platform powering Australian SMEs with digital tools for growth, automation, and customer engagement.  
+- 🌐 **[Kauri Flats](https://kauriflats.co.nz/)** — Real estate management solution in New Zealand, simplifying property search, listings, and tenant management.  
+- 🌐 **[Listhouze](https://listhouze.com.au/)** — Modern property listing & management platform, scaled to thousands of listings, streamlining workflows for agents and buyers.  
+- 🌐 **[Ajuba Domain](https://ajubadomain.co.nz/)** — Domain registration & digital identity service helping businesses establish a trusted online presence.  
+- 🌐 **[Ogzimo](https://ogzimo.com/)** — Innovative fintech-inspired platform focused on creating smarter, user-centric digital experiences.  
+- 🌐 **[Kroomly](https://kroomly.com/)** — Next-gen collaboration and networking platform designed for creative professionals and entrepreneurs.  
 
 ---
 
